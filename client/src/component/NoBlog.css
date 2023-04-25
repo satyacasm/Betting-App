@@ -1,0 +1,10 @@
+.container{
+    width: 48vh;
+    height: 50vh;
+    font-size: 400;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+background-image: url('../image/bg-img.png');
+}

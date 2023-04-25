@@ -1,0 +1,12 @@
+.selecter{
+    padding-left: 25px ;
+ 
+    padding-top: 15px ;
+   
+}
+.form-select{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+}
